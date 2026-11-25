@@ -1,0 +1,13 @@
+# 编译中间文件
+build/
+*.o
+
+# 可执行文件
+bin/
+SmartSortMonitor
+
+# 调试文件
+*.core
+
+# 临时文件
+*.tmp
